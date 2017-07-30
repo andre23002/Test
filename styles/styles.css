@@ -1,0 +1,177 @@
+body{
+	font-family: Tahoma, "Times New Roman", sans-serif;
+	font-size: 16pt;
+	margin: 0;
+	/*padding: 17px 115px 17px 127px;*/
+}
+
+.clear{
+	clear: both;
+}
+
+#head{
+	table-layout:fixed;
+	border-collapse:collapse;
+}
+
+#logo table{
+	width: 100%;
+	margin-left:127px;
+}
+
+#logo p {
+	margin: 0;
+}
+
+.tz{
+	width:50px;
+	font-size:72px;
+	color:#f4f4f4;
+	vertical-align:middle;
+	text-align:center;
+}
+.text{
+	color:#969696;
+	vertical-align:middle;
+	width:670px;
+	font-size:23px;
+
+}
+#topmenu{
+	background-color:#484848;
+	margin-top: 17px;
+	
+}
+
+#topmenu ul{
+	margin:0;
+	padding:0;
+	margin-left:127px;
+}
+
+#topmenu ul li{
+	float:left;
+	list-style:none;
+	margin-left: 20px;
+}
+
+#topmenu ul li a{
+	color:#9ea2a7;
+	display:block;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+
+#topmenu ul li.active a, #topmenu ul li a:hover{
+	color:#dbdbdb;
+	text-decoration:underline;
+}
+
+#vvod{
+	float:left;
+	background-color:#f6f6f6;
+	color:#6d747c;
+	border:0px;
+	height:45px;
+	width:420px;
+	padding-left:18px;
+	font-size: 16pt;
+	border-radius: 0px 10px 10px 0px;
+	
+}
+
+#icon{
+	float: left;
+}
+
+#contacts table{
+	border-collapse:collapse;
+	
+}
+#name{
+	margin-top:30px;
+}
+
+#otshestvo{
+	margin-top:30px;
+}
+
+#facilities{
+	margin-left:127px;
+	padding-left:629px;
+	padding-top:20px;
+	color:#939393;
+}
+#myself{
+	margin-left:158px;
+	width:456px;
+	float:left;
+}
+#aboutmy{
+	padding-top:30px;
+	color:#0793ff;
+	font-size: 120%;
+}
+
+#describe{
+	color:#464646;
+}
+#picture{
+	border: 1px solid #dedede;
+	width:225px;
+	height:223px;
+	float:right;
+	margin:67px 352px 0px 127px;
+	border-radius:10px 10px 10px 10px;
+}
+#picture img{
+	text-align:center;
+	padding:8px 10px 10px 10px;
+}
+#footer{
+	position:relative;
+	margin-top:454px;
+	height:200px;
+	background-color:#484848;
+	padding: 0px 0px 0px 0px;
+}
+
+.conthead{
+	color:#ffffff;
+	font-size:16px;
+}
+
+.visitcard{
+	color:#adadad;
+	font-size:11px;
+}
+
+#contacts{
+	float:left;
+	position:relative;
+	margin: 35px 0px 0px 158px;
+}
+.sotsetis{
+	color:#adadad;
+	font-size:11px;
+
+}
+.sotsetis p{
+	margin:0px;
+	text-align:center;
+}
+.sotsetis div{
+	display: block;
+	background-color:#3c3c3c;
+}
+#sotseti{
+	margin-left:753px;
+	padding-top:1px;
+}
+#contactsfoot{
+	float:left;
+	position:relative;
+	margin: 3px 0px 0px 158px;
+}
+
+
